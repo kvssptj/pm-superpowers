@@ -10,13 +10,15 @@ A Claude Code companion plugin for product managers. Brings disciplined, hard-ga
 ## Installation
 
 ```bash
-claude plugin install https://github.com/kvssptj/pm-superpowers
+claude plugin marketplace add kvssptj/pm-superpowers
+claude plugin install pm-superpowers@pm-superpowers
 ```
 
 Or for local development:
 
 ```bash
-claude plugin install /path/to/pm-superpowers
+claude plugin marketplace add /path/to/pm-superpowers
+claude plugin install pm-superpowers@pm-superpowers
 ```
 
 ## Skills
