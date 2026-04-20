@@ -10,7 +10,7 @@ A Claude Code companion plugin for product managers. Brings disciplined, hard-ga
 ## Installation
 
 ```bash
-claude plugin install https://github.com/your-username/pm-superpowers
+claude plugin install https://github.com/kvssptj/pm-superpowers
 ```
 
 Or for local development:
@@ -49,6 +49,10 @@ docs/pm/
 ├── briefs/     # One-pagers and briefs
 └── roadmap/    # Prioritization outputs and roadmaps
 ```
+
+## Origin
+
+pm-superpowers is the successor to [riff](https://github.com/kvssptj/riff). Where riff was a full multi-agent PM operating system, pm-superpowers is a focused superpowers companion plugin — lighter, installable, and built around hard-gated skill workflows.
 
 ## License
 
